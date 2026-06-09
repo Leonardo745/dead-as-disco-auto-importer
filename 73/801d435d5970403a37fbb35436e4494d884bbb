@@ -1,0 +1,25 @@
+compare_volume.py
+  s_d9bdd7d84fb9a2::t_e6de621afd88df 1-40
+.gitignore
+  s_d9bdd7d84fb9a2::t_e6de621afd88df 1-29
+import_disco.py
+  s_d9bdd7d84fb9a2::t_e6de621afd88df 1-165
+README.md
+  s_d9bdd7d84fb9a2::t_e6de621afd88df 1-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "73801d435d5970403a37fbb35436e4494d884bbb",
+  "prompts": {},
+  "sessions": {
+    "s_d9bdd7d84fb9a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a7b21931-fbba-4bc4-87cd-b8ff4ec4014d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Leonardo Mariotto <leonardo_mariotto@yahoo.com.br>"
+    }
+  }
+}
